@@ -28,8 +28,8 @@
 
   
       ,"page1": {
-          "title": "About Me",
-          "content": "This website is powered by fastpages 1. . a blogging platform that natively supports Jupyter notebooks in addition to other formats. &#8617; . |",
+          "title": "About",
+          "content": "About This Project . This website is powered by fastpages, a blogging platform that natively supports Jupyter notebooks in addition to other formats.1 View this project on GitHub. . Contributing . Please get in touch if you have visualization you would like to add or see an existing visualization that you would like to improve or fix. . . Familiarity with fastpages is helpful. All you need to do is include the appropriate front matter in your notebook. You can submit a pull request at github.com/github/ngldvn/econ-posts. &#8617; . |",
           "url": "https://ngldvn.github.io/econ-posts/about/",
           "relUrl": "/about/",
           "date": ""
